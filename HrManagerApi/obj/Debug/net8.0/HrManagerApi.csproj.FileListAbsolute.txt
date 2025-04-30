@@ -5,6 +5,7 @@ D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\HrManagerApi.deps.j
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\HrManagerApi.runtimeconfig.json
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\HrManagerApi.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\HrManagerApi.pdb
+D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\AutoMapper.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\Azure.Core.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\Azure.Identity.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\Humanizer.dll
@@ -147,7 +148,9 @@ D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\runtimes\browser\li
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\DomainLayer.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\RepositoryLayer.dll
+D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\ServicesLayer.dll
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\RepositoryLayer.pdb
+D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\ServicesLayer.pdb
 D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\DomainLayer.pdb
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.csproj.AssemblyReference.cache
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.GeneratedMSBuildEditorConfig.editorconfig
@@ -156,6 +159,7 @@ D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.Assemb
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.csproj.CoreCompileInputs.cache
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.sourcelink.json
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\staticwebassets.build.json
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\staticwebassets.development.json
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\staticwebassets\msbuild.HrManagerApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -170,6 +174,3 @@ D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\refint\HrManagerApi
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.pdb
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\HrManagerApi.genruntimeconfig.cache
 D:\Facultate\Licenta\HrManager\HrManagerApi\obj\Debug\net8.0\ref\HrManagerApi.dll
-D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\AutoMapper.dll
-D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\ServicesLayer.dll
-D:\Facultate\Licenta\HrManager\HrManagerApi\bin\Debug\net8.0\ServicesLayer.pdb

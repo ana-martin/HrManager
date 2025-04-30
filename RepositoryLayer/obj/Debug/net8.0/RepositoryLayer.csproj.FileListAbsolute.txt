@@ -9,6 +9,7 @@ D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.
 D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
 D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
 D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.sourcelink.json
 D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\Reposito.A0A61804.Up2Date
 D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
 D:\Facultate\Licenta\HrManager\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll

@@ -8,6 +8,7 @@
         public string Email { get; set; }
         public DateTime HireDate { get; set; }
         public int PositionId { get; set; }
+        //public int DepartmentId {  get; set; }
 
     }
 }

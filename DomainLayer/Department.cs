@@ -7,7 +7,6 @@ namespace DomainLayer
         public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
         public string Location { get; set; }
-
         public Department(int departmentId, string departmentName, string location) 
         {
             DepartmentId = departmentId;
