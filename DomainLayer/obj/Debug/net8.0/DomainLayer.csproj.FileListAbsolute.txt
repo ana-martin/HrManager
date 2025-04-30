@@ -1,0 +1,14 @@
+D:\Facultate\Licenta\HrManager\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\Facultate\Licenta\HrManager\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\Facultate\Licenta\HrManager\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\Facultate\Licenta\HrManager\DomainLayer\bin\Debug\net8.0\DomainLayer.runtimeconfig.json
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Facultate\Licenta\HrManager\DomainLayer\obj\Debug\net8.0\DomainLayer.genruntimeconfig.cache
